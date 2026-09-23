@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# Data Quality Sentinel
 
-**data-quality-sentinel** is part of the Zion Tech Group app network (630+ apps).
+Data quality monitoring sentinel.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
+- Related: [zion-ai-data-quality](https://github.com/Zion-support/zion-ai-data-quality) · [ai-data-validator](https://github.com/Zion-support/ai-data-validator) · [data-contract-validator](https://github.com/Zion-support/data-contract-validator) · [data-pipeline-doctor](https://github.com/Zion-support/data-pipeline-doctor) · [zion-data-readiness-audit](https://github.com/Zion-support/zion-data-readiness-audit)
 
-## Related apps
-- [zion-ai-data-quality](https://github.com/Zion-support/zion-ai-data-quality) — Pipeline monitoring and anomaly detection
-- [ai-data-validator](https://github.com/Zion-support/ai-data-validator) — Data quality validation
-- [data-contract-validator](https://github.com/Zion-support/data-contract-validator) — Data contract validation
-- [zion-data-readiness-audit](https://github.com/Zion-support/zion-data-readiness-audit) — Data readiness assessment
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
